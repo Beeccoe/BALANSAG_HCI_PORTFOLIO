@@ -2,4 +2,4 @@
 HCI portfolio for Alysza Mae T. Balansag
 
 ## Team Logo
-Team logo is file called "Brain Rot Logo Full"
+Team logo is file called "Brain Rot Logo"
