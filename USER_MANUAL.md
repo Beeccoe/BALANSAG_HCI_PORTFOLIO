@@ -7,4 +7,4 @@ It allows you to lock multiple distractions such as social media and messaging a
 1. To access the prototype, copy this into your browser:
 https://www.figma.com/design/OTjfuWBIMMtAlO3q4iMPia/Zero-Waste-Prototype?node-id=0-1&t=wQfMM6jQKnKCFOMx-1
 2. Press the play button in the upper right corner to initialize the prototype.
-3. Benefit.
+3. Start using the app.
